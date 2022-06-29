@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "778140333234",
+    "project_id": "loginwithemailpass-f2ca6",
+    "storage_bucket": "loginwithemailpass-f2ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778140333234:android:429c43cea79442a97e05ab",
+        "android_client_info": {
+          "package_name": "com.app.loginwithemailpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778140333234-1fiuo2nlpg5tb4sfad979k92rd64n6je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.loginwithemailpass",
+            "certificate_hash": "d17a83e8f171ffba52b8ac48fd5d76d471b0dff4"
+          }
+        },
+        {
+          "client_id": "778140333234-iv7jjcm0b3gldi2js941oo56u8opktqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAXg9ozMOO1v4bnyhHEV3nnPOEkFt1gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778140333234-iv7jjcm0b3gldi2js941oo56u8opktqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
